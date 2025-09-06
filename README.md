@@ -1,2 +1,2 @@
-# Terminal-conf
+# dotfiles
 FelixFern's Terminal Configurations 
